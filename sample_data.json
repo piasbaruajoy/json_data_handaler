@@ -1,0 +1,44 @@
+[
+    {
+        "name": "anoy",
+        "age": 30,
+        "phone": "+880-123",
+        "address": "Dhaka"
+    },
+    {
+        "name": "Alice",
+        "age": 25,
+        "phone": "+880-456",
+        "address": "Chittagong"
+    },
+    {
+        "name": "pias",
+        "age": 28,
+        "address": "chittagong",
+        "phone": "+880-1833xxxxx"
+    },
+    {
+        "name": "Rahan",
+        "age": 32,
+        "address": "chittagong",
+        "phone": "+880-018xxxxx"
+    },
+    {
+        "name": "Shuvo",
+        "age": 33,
+        "address": "sitoljorna",
+        "phone": "+880-1865254"
+    },
+    {
+        "name": "Farhad",
+        "age": 30,
+        "address": "chakbazar",
+        "phone": "+880-1833333"
+    },
+    {
+        "name": "Hridoy",
+        "age": 27,
+        "address": "Ranguniya",
+        "phone": "+880-145456"
+    }
+]

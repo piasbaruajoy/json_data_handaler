@@ -1,0 +1,24 @@
+===============================
+|       User Details save     |
+===============================
+Name:pias barua
+Age:26
+Phone:+880-6464
+Address:dhk
+Email:test2@example.com
+===============================
+|       User Details save     |
+===============================
+Name:hadi
+Age:32
+Phone:+880-154696
+Address:ctg
+Email:test2@example.com
+===============================
+|       User Details save     |
+===============================
+Name:test
+Age:54
+Phone:+880-4643
+Address:new
+Email:test3@example.com
